@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Tania Akter
 
 <!--
 **aktertania/aktertania** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me 
+I am a hardworking and ambitious individual with a great passion for the software industry. My quick learning skills enable me to interact with new technology. Now i am looking for a best opportunity to start my career in software industry.
